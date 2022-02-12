@@ -1,0 +1,72 @@
+// $main-color:rgb(118, 213, 236);
+// $bread-col: rgb(255, 174, 174);
+$main-color:rgb(206, 96, 96);
+$bread-col: rgb(224, 242, 245);
+
+.navbar{
+    background-color: $main-color ;
+}
+
+#path{
+    // margin-top: 1px;
+    background-color:$bread-col;
+}
+
+#title{
+    text-align: center;
+    padding: 1.1rem ;
+    color:rgb(155, 58, 58);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.container{
+    min-height: calc(100vh - 142px);
+  }
+
+.footer{
+    padding-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    background-color: $main-color;
+    a{
+        color: black;
+        margin-bottom: 0px;
+    }
+    ul{
+        margin-bottom: 0px;
+    }
+}
+
+.list-group{
+  opacity: 1!important;
+  #first-element{
+      background-color: rgb(255, 155, 84);
+      color:white;
+      margin-bottom: 5px;
+    }
+    #second-element{
+      background-color: rgb(255, 127, 81);
+      color:white;
+      margin-bottom: 5px;
+    }
+  
+    #third-element{
+      background-color: rgb(206, 66, 87);
+      color:white;
+      margin-bottom: 5px;
+    }
+  
+    #fourth-element{
+      background-color: rgb(215, 38, 56) ;
+      color:white;
+      margin-bottom: 5px;
+    }
+  
+    #fifth-element{
+      background-color:  rgb(114, 0, 38);
+      color:white;
+      margin-bottom: 45px;
+    }
+
+}

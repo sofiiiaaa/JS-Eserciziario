@@ -1,0 +1,14 @@
+
+
+#title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:#ff0000;
+}
+
+.container-fluid{
+   background-color:rgb(220, 255, 255);
+   min-height: calc(100vh - 236px);
+   margin-bottom:25px
+ }
+

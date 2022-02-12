@@ -1,0 +1,11 @@
+#screen{
+    border:1px black solid;
+    min-height:50px;
+    margin:30px  0px;
+}
+.container{    
+    max-width:600px;
+    min-height: calc(100vh - 253px);
+    
+       
+}
