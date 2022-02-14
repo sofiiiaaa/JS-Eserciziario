@@ -1,5 +1,5 @@
 let HOME_PAGE = "./../../index.html"
-const LINKEDIN = "#"
+const LINKEDIN = "https://www.linkedin.com/in/sofia-riggi-14671a231/"
 const PORTFOLIO = "https://sofiiiaaa.github.io/Web-Personal-Developer-Portfolio/"
 const GITHUB = "https://github.com/sofiiiaaa"
 const COLOR_HOME = 'black'
