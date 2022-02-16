@@ -38,11 +38,16 @@
     background-color: #ce4257;
     color: white;
     margin-bottom: 5px; }
-  .list-group #fourth-element {
+  .list-group #fourth-element{
+    background-color: #dd6571;
+    color: white;
+    margin-bottom: 5px;
+  }
+  .list-group #fifth-element {
     background-color: #d72638;
     color: white;
     margin-bottom: 5px; }
-  .list-group #fifth-element {
+  .list-group #sixth-element {
     background-color: #720026;
     color: white;
     margin-bottom: 45px; }
